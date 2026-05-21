@@ -66,7 +66,7 @@ public:
     }
 };
 
-// SOLAR TRACKER (POLYMORPHISM FIXED)
+// SOLAR TRACKER (POLYMORPHISM)
 class SolarTracker : public Device {
 
 private:
